@@ -1,7 +1,7 @@
 <?php
 $num_1=10;
 $num_2=2;
-$opr="/";
+$opr="+";
 
 if($opr=="+")
 echo $num_1 +$num_2;
